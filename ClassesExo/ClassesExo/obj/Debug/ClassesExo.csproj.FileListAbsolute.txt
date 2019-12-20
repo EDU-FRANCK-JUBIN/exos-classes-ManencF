@@ -1,0 +1,6 @@
+C:\Users\flo-l\source\repos\ClassesExo\ClassesExo\bin\Debug\ClassesExo.exe.config
+C:\Users\flo-l\source\repos\ClassesExo\ClassesExo\bin\Debug\ClassesExo.exe
+C:\Users\flo-l\source\repos\ClassesExo\ClassesExo\bin\Debug\ClassesExo.pdb
+C:\Users\flo-l\source\repos\ClassesExo\ClassesExo\obj\Debug\ClassesExo.csprojAssemblyReference.cache
+C:\Users\flo-l\source\repos\ClassesExo\ClassesExo\obj\Debug\ClassesExo.exe
+C:\Users\flo-l\source\repos\ClassesExo\ClassesExo\obj\Debug\ClassesExo.pdb
