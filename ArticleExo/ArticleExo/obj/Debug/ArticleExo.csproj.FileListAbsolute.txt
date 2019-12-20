@@ -1,0 +1,6 @@
+C:\Users\flo-l\source\repos\ArticleExo\ArticleExo\bin\Debug\ArticleExo.exe.config
+C:\Users\flo-l\source\repos\ArticleExo\ArticleExo\bin\Debug\ArticleExo.exe
+C:\Users\flo-l\source\repos\ArticleExo\ArticleExo\bin\Debug\ArticleExo.pdb
+C:\Users\flo-l\source\repos\ArticleExo\ArticleExo\obj\Debug\ArticleExo.csprojAssemblyReference.cache
+C:\Users\flo-l\source\repos\ArticleExo\ArticleExo\obj\Debug\ArticleExo.exe
+C:\Users\flo-l\source\repos\ArticleExo\ArticleExo\obj\Debug\ArticleExo.pdb
