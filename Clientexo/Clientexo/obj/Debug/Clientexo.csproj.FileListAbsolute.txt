@@ -1,0 +1,6 @@
+C:\Users\flo-l\source\repos\Clientexo\Clientexo\bin\Debug\Clientexo.exe.config
+C:\Users\flo-l\source\repos\Clientexo\Clientexo\bin\Debug\Clientexo.exe
+C:\Users\flo-l\source\repos\Clientexo\Clientexo\bin\Debug\Clientexo.pdb
+C:\Users\flo-l\source\repos\Clientexo\Clientexo\obj\Debug\Clientexo.csprojAssemblyReference.cache
+C:\Users\flo-l\source\repos\Clientexo\Clientexo\obj\Debug\Clientexo.exe
+C:\Users\flo-l\source\repos\Clientexo\Clientexo\obj\Debug\Clientexo.pdb
